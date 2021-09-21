@@ -2,7 +2,7 @@
          Для гр ис-19-03
 
          команды  add-migration
-         update-database - 
+         update-database
     
          получение  из бд
          Scaffold-DbContext -ContextDir Models_test -
